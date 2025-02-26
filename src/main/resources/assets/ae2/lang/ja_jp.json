@@ -511,6 +511,8 @@
   "gui.ae2.ToCraft": "クラフトへ: %s",
   "gui.ae2.ToastCraftingJobFinishedText": "%d %s",
   "gui.ae2.ToastCraftingJobFinishedTitle": "自動クラフトが完了しました",
+  "gui.ae2.TransformTypeExplode": "爆発",
+  "gui.ae2.TransformTypeThrowInFluid": "%s で投げ",
   "gui.ae2.TransparentFacades": "透明な外装",
   "gui.ae2.TransparentFacadesHint": "ネットワークツールが手持ちにあるときに、外装の可視性を制御します。",
   "gui.ae2.Types": "タイプ",
